@@ -1,0 +1,26 @@
+{
+    "music_disc.test": {
+        "sounds": [
+            {
+                "name": "records/test",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.andante": {
+        "sounds": [
+            {
+                "name": "records/andante",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.18446744073709551616": {
+        "sounds": [
+            {
+                "name": "records/18446744073709551616",
+                "stream": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "南苏化螨服务器使用的数据包",
+        "supported_formats": [18,48]
+    }
+}

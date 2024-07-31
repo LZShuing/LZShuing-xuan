@@ -1,0 +1,8 @@
+{
+    "sound_event":{
+        "sound_id":"minecraft:music_disc.andante"
+    },
+    "description": "Andante - ClariS",
+    "length_in_seconds": 219,
+    "comparator_output": 2
+}
